@@ -2,3 +2,5 @@ node_modules
 .vscode
 dist
 index.html
+coverage
+.nyc_output
